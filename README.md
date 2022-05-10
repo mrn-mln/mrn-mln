@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrn-mln
 - 👀 I’m interested in AI and computer vision projects
-- 🌱 I’m currently learning edge computing
+- 🌱 I’m currently learning edge deep learning
 - 💞️ I’m looking to collaborate on deeplearning projects
 
 <!---
